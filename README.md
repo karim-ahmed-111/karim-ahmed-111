@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi there, I'm Karim Ahmed 👋
 
-<!--
-**karim-ahmed-111/karim-ahmed-111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring full-stack developer passionate about building scalable web apps and APIs using .NET technologies.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+- 🎓 A computer science graduate with a strong foundation in software development
+  
+- 💼 Experienced with ASP.NET Core, MVC, SQL Server, Entity Framework, REST APIs, and C#
+  
+- 🔧 Also familiar with SignalR, payment integration, and role-based authentication
+  
+- 🤝 Team player who values adaptability, problem solving, and collaboration
+
+---
+
+## 📦 Featured Projects
+
+- **Magic_Villa_API:** RESTful API for villa management (CRUD operations, ASP.NET Core)
+- **Auctions_Application:** Auction platform with real-time bidding, authentication, and admin dashboard
+  
+- **FishCareSystem:** C# tool for aquarium management and fish health tracking
+  
+- **MindMap:** Desktop mind-mapping application with export features
+  
+- **TechXpress:** E-commerce platform for electronics (shopping cart, payment gateway)
+  
+- **TechXpressV2:** Enhanced e-commerce app with Stripe integration and improved admin tools
+
+> See all my work on [GitHub](https://github.com/karim-ahmed-111)
+
+---
+
+## 📫 Contact Me
+
+- Email: karimahmed154404@gmail.com
+- LinkedIn: [karim-ahmed-o11](https://www.linkedin.com/in/karim-ahmed-o11)
+
+---
+
+## 📊 GitHub Stats
+
+![Karim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=karim-ahmed-111&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karim-ahmed-111&layout=compact)
